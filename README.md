@@ -6,14 +6,19 @@ De game werkt momenteel niet om de volgende redenen:
   <li>VSC wil het project niet builden(alhoewel compilen zonder problemen verloopt).</li>
   <li>es6-shim niet werkt(Promise word niet herkent)</li>
 </ul>
+
 # forked Game
 https://github.com/HarisSpahija/bomberman
+
 ## Pull Request:
 https://github.com/HarisSpahija/bomberman/pull/1
+
 ## Feedback:
 ----
+
 ## UML
 Game incomplete
+
 ## Singleton
 De 'Game' en de 'SongSelector' zijn Singletons, omdat:
 <ul>
