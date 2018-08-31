@@ -2,9 +2,10 @@
 A typescript version of the piano hero game that was made for Schouwburgplein.
 
 De game werkt momenteel niet om de volgende redenen:
-VSC wil het project niet builden(alhoewel compilen zonder problemen verloopt)
-es6-shim niet werkt(Promise word niet herkent)
-
+<ul>
+  <li>VSC wil het project niet builden(alhoewel compilen zonder problemen verloopt).</li>
+  <li>es6-shim niet werkt(Promise word niet herkent)</li>
+</ul>
 # forked Game
 https://github.com/HarisSpahija/bomberman
 ## Pull Request:
